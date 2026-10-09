@@ -53,6 +53,20 @@ The internship task list covers the following areas:
 1. Download the `.pbix` file from this repository.
 2. Open it using Microsoft Power BI Desktop.
 3. Explore the available report pages and interactive visuals.
+4. 
+## 📸 Dashboard Previews
+
+### 1. Netflix Overview
+
+![Netflix Overview](Netflix-Overview.png)
+
+### 2. Global Content Insights
+
+![Global Content Insights](Global-Insights.png)
+
+### 3. Content Growth & Trend Analysis
+
+![Content Growth and Trend Analysis](Content-Trends.png)
 
 ## 🎓 Internship
 
